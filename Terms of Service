@@ -1,0 +1,26 @@
+**Terms of Service for Trigon Evo - Discord Bot**
+
+1. **Introduction**
+   - These Terms of Service ("Terms") govern the use of the Discord bot, Trigon Evo ("Bot"). By using the Bot, you agree to be bound by these Terms.
+
+2. **Data Collection and Use**
+   - **User Messages**: The Bot collects user messages solely for the purpose of enabling the prefix command functionality. This data is processed in real-time and is not stored permanently.
+   - **Snipe Command**: When the 'snipe' command is invoked, the Bot temporarily stores the deleted message and the associated channel ID of a specific Discord server. This data is held temporarily and is automatically purged after a short period.
+   - **No Other Data**: Apart from the aforementioned data points, the Bot does not collect, store, or process any other information.
+
+3. **Data Security**
+   - The Bot developer(s) and maintainers prioritize user privacy and ensure that appropriate measures are in place to protect the data from unauthorized access, alteration, or destruction.
+
+4. **Limitation of Liability**
+   - Users agree that the use of the Bot is at their own risk. The Bot developer(s) shall not be liable for any damages, including but not limited to, loss of data, discord server disruptions, or other issues arising from the use of the Bot.
+
+5. **Changes to These Terms**
+   - These Terms may be updated or revised periodically. Users are encouraged to review these Terms from time to time to stay informed of any changes.
+
+6. **Termination**
+   - The Bot developer(s) reserve the right to discontinue the Bot or ban users from using the Bot for any reason, including, but not limited to, violations of these Terms.
+
+7. **Contact**
+   - If you have any questions or concerns regarding these Terms or the Bot, please contact forever4d@outlook.com
+
+By using Trigon Evo, you acknowledge that you have read, understood, and agreed to these Terms of Service.
