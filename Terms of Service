@@ -1,27 +1,42 @@
-Terms of Service for Trigon Evo - Discord Bot
+Trigon Evo Bot Terms of Service (ToS)
 
-1. Introduction
-   - These Terms of Service ("Terms") govern the use of the Discord bot, Trigon Evo ("Bot"). By using the Bot, you agree to be bound by these Terms.
+1. Introduction:
 
-2. Data Collection and Use
-   - User Messages: The Bot collects user messages solely for the purpose of enabling the prefix command functionality. This data is processed in real-time and is not stored permanently.
-   - Warn Command: The Bot utilizes a 'warn' command which records usernames in conjunction with guild IDs. This data is stored persistently in our secure database.
-   - Action Logs: The Bot provides an 'action logs' command that allows server staff to log their actions such as bans, kicks, and warnings. This data is guild-specific and stored securely in our database.
-   - Modlogs: Through the 'modlogs' command, users can check their moderation history. This data, again, is guild-specific and is stored in our secure database.
-   - Snipe Command: When the 'snipe' command is invoked, the Bot temporarily stores the deleted message and the associated channel ID of a specific Discord server. This data is held temporarily and is automatically purged after a short period.
-   - No Other Data: Apart from the aforementioned data points, the Bot does not collect, store, or process any other information.
+Welcome to Trigon Evo, a meticulously crafted Discord bot designed to enrich your server experience. By availing the services of Trigon Evo, you consent to the terms and conditions delineated herein. We kindly request a thorough perusal of these terms.
 
-3. Data Security
-   - The Bot developer(s) and maintainers prioritize user privacy and ensure that appropriate measures are in place to protect the data from unauthorized access, alteration, or destruction.
+2. Data Collection and Retention:
 
-4. Limitation of Liability
-   - Users agree that the use of the Bot is at their own risk. The Bot developer(s) shall not be liable for any damages, including but not limited to, loss of data, discord server disruptions, or other issues arising from the use of the Bot.
+- Nature of Data: Trigon Evo collects specific data to facilitate its functions effectively. The data collected stems primarily from user interactions and includes but is not limited to:
+  - Usernames
+  - Message contents, specifically when processing commands or utilizing features like the `snipe` command
+  - Moderation reasons, such as the rationale behind warnings
+  
+  This data collection is contingent upon user actions and interactions with the bot.
 
-5. Changes to These Terms
-   - These Terms may be updated or revised periodically. Users are encouraged to review these Terms from time to time to stay informed of any changes.
+- Logs Storage: Logs, encompassing warnings, modlogs, and actionlogs, are retained for a finite duration of 90 days. Subsequent to this period, data undergoes automatic and irreversible deletion to prioritize user privacy.
 
-6. Termination
-   - The Bot developer(s) reserve the right to discontinue the Bot or ban users from using the Bot for any reason, including, but not limited to, violations of these Terms.
+- Real-time Processing: Unless otherwise specified, Trigon Evo processes user inputs in real-time and abstains from prolonged data storage beyond the immediate need of command execution.
 
-7. Contact
-   - If you have any questions or concerns regarding these Terms or the Bot, please contact forever4d@outlook.com.
+3. Data Encryption and Security:
+
+To safeguard user data's sanctity, all information associated with Trigon Evo is encrypted using sophisticated encryption algorithms. The bot's infrastructure is predicated on ensuring top-tier security and data integrity.
+
+4. Limitations of Liability:
+
+While Trigon Evo stands as a testament to precision and reliability, we cannot vouchsafe uninterrupted service or guarantee immunity from sporadic errors. We renounce all warranties, as permissible by law, pertaining to Trigon Evo's utilization.
+
+5. Amendments to the ToS:
+
+Trigon Evo reserves the prerogative to amend these terms intermittently. Users bear the onus of revisiting the ToS periodically. Persisted engagement with Trigon Evo, following any modifications, is construed as assent to the updated terms.
+
+6. User Responsibilities:
+
+Patrons are entreated to utilize Trigon Evo judiciously and consonantly with Discord's community guidelines. Any contravention or act that imperils the bot's sanctity or its user community may incur restricted access or subsequent repercussions.
+
+7. Contact:
+
+For clarifications regarding the ToS or other Trigon Evo-related inquiries, please liaise with our dedicated support team via forever4d@outlook.com or through direct communication with our support team members, as delineated in the bot's "About" section.
+
+8. Acknowledgment:
+
+By interfacing with Trigon Evo, you confer assent to these stipulated terms. We deeply appreciate your trust and pledge to amplify your Discord rendezvous through our assiduous services.
