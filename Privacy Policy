@@ -1,34 +1,47 @@
-Privacy Policy for Trigon Evo
+Trigon Evo Bot Privacy Policy
 
-Last Updated: 01/10/2023
+1. Introduction:
 
-This privacy policy ("Policy") explains the personal data that Trigon Evo ("Bot", "we", "our", or "us") collects, why we collect it, and how we use and handle the said data.
+Thank you for choosing Trigon Evo. The protection of your data is paramount to us. This Privacy Policy delineates our practices regarding the collection, use, and sharing of your information through the use of Trigon Evo on Discord.
 
-1. Data We Collect
-    - User Messages: We collect user messages solely for the purpose of enabling the prefix command functionality.
-    - Warn Command: Our Bot employs the 'warn' command, which records usernames based on guild IDs and stores them persistently in a secure database.
-    - Action Logs: The 'action logs' command is used by server staff to log and record actions, such as bans, kicks, and warnings. This guild-specific data is stored in our secure database.
-    - Modlogs: The 'modlogs' command lets users check their moderation history. This guild-specific data is stored in our secure database.
-    - Snipe Command: We temporarily store deleted messages and the associated channel ID when the 'snipe' command is used.
-    - No Additional Data Collection: We do not collect any other personal data or information beyond what is mentioned above.
+2. Data We Collect:
 
-2. How We Use the Data
-    - The data collected is exclusively used to provide the features and functionalities of the Bot. It is not used for any other purposes and is not shared with third parties.
+In the course of providing our services, we collect specific data to facilitate functionalities:
 
-3. Data Retention
-    - Data associated with the 'snipe' command is stored temporarily and is automatically purged after a short period.
-    - Data linked with the 'warn', 'action logs', and 'modlogs' commands is stored persistently in a secure database but is guild-specific, ensuring that data is compartmentalized based on individual server needs.
+- Usernames: Mainly to recognize and process command inputs and for moderation purposes.
+  
+- Message Contents: Particularly when processing commands or using features, such as setting moderation reasons.
+  
+- Moderation Reasons: For example, the rationale provided for warnings or other moderation actions in a specific guild.
 
-4. Data Security
-    - We employ appropriate measures to protect the security of the data we collect. We take reasonable steps to prevent unauthorized access, alteration, or destruction of data.
+Please note, the aforementioned data is primarily provided by users during interactions with Trigon Evo.
 
-5. User's Rights
-    - Users have the right to inquire about the data we collect and request deletion of any data associated with them. To make such requests or inquiries, users can contact us at forever4d@outlook.com
+3. How We Use Your Data:
 
-6. Changes to This Policy
-    - We reserve the right to update or change this Policy at any time. Any significant changes will be notified to users through appropriate channels. By continuing to use the Bot after these changes are made, you agree to the revised Policy.
+- To Facilitate Commands: Your data aids in processing specific commands and executing functionalities seamlessly.
 
-7. Contact Information
-    - For questions, comments, or concerns regarding this Policy, please contact us at forever4d@outlook.com.
+- For Moderation: To assist server administrators in maintaining a harmonious environment within their servers.
 
-By using Trigon Evo, you agree to the terms outlined in this Privacy Policy.
+4. Data Retention:
+
+- Logs Storage: Moderation-related logs, including warnings, modlogs, and actionlogs, are retained for a capped duration of 90 days. Post this interval, data is deleted irreversibly.
+
+- Message Data for `snipe` Command: Once the command is invoked, relevant message data is instantly discarded. If not summoned, it's automatically purged after an hour.
+
+5. Data Security:
+
+All data under the umbrella of Trigon Evo is encrypted employing advanced cryptographic techniques. Our foundation is robust security measures that assure the safety and integrity of user data.
+
+6. User Rights:
+
+- Transparency: Users can inquire about their stored data by reaching out to our support.
+
+- Deletion: Post the stipulated retention period, data is automatically deleted. However, server admins can invoke specific commands to remove data prematurely.
+
+7. Updates to This Privacy Policy:
+
+From time to time, we may update this policy to reflect changes in our practices or for other operational, legal, or regulatory reasons.
+
+8. Contact Us:
+
+For more information about our privacy practices, or if you have questions or concerns, please contact our dedicated support team via forever4d@outlook.com or consult the bot's "About" section.
