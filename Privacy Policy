@@ -26,8 +26,6 @@ Please note, the aforementioned data is primarily provided by users during inter
 
 - Logs Storage: Moderation-related logs, including warnings, modlogs, and actionlogs, are retained for a capped duration of 90 days. Post this interval, data is deleted irreversibly.
 
-- Message Data for `snipe` Command: Once the command is invoked, relevant message data is instantly discarded. If not summoned, it's automatically purged after an hour.
-
 5. Data Security:
 
 All data under the umbrella of Trigon Evo is encrypted employing advanced cryptographic techniques. Our foundation is robust security measures that assure the safety and integrity of user data.
