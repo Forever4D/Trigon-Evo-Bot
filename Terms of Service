@@ -8,7 +8,7 @@ Welcome to Trigon Evo, a meticulously crafted Discord bot designed to enrich you
 
 - Nature of Data: Trigon Evo collects specific data to facilitate its functions effectively. The data collected stems primarily from user interactions and includes but is not limited to:
   - Usernames
-  - Message contents, specifically when processing commands or utilizing features like the `snipe` command
+  - Message contents, specifically when processing commands or utilizing features.
   - Moderation reasons, such as the rationale behind warnings
   
   This data collection is contingent upon user actions and interactions with the bot.
