@@ -1,51 +1,42 @@
-Trigon Evo Privacy Policy
+Trigon Evo Bot Terms of Service (ToS)
 
-Last updated: 01/10/2023 (DD/MM/YYY)
+1. Introduction & Acceptance
 
-1. Introduction
+Welcome to the Trigon Evo Bot Terms of Service. By using the Trigon Evo Bot within Discord, you are entering into a binding contract with us and you agree to comply with these terms. If you disagree with any part of these terms, you are prohibited from using or accessing our bot.
 
-Welcome to Trigon Evo. Your privacy is of utmost importance to us. This Privacy Policy outlines the types of personal information we collect, how we use it, and the steps we take to safeguard it when you use our bot.
+2. Data Collection, Use & Retention
 
-2. Information We Collect
+- Information We Collect: Trigon Evo Bot collects the following data:
+  - User IDs and Usernames: To identify users within servers and facilitate several bot features.
+  - Server IDs: To uniquely identify servers and assist in moderation tools.
+  - Message Contents: Specifically for commands, to process and execute user commands. Some data, such as moderation reasons, are stored for logging purposes.
+  
+- Purpose of Data Collection: The data assists in:
+  - Executing real-time command processes.
+  - Generating moderation logs and action logs for server administrators.
+  
+- Data Retention: All data, especially logs, are retained for a maximum of 90 days. After this period, they are automatically deleted from our systems. While server administrators can delete their server's moderation logs, individual users cannot request the deletion of warning logs for the purpose of maintaining server moderation integrity.
 
-In Short: We collect personal information that you provide to us.
+- Security: All data is stored using industry-standard encryption methods, ensuring maximum security against breaches and unauthorized access.
 
-Personal Information Provided by You:
-- Usernames: For command execution and moderation functions.
-- Message Contents: Specifically, for real-time command processing and for reasons provided in moderation actions.
-- Server IDs: To specify and segregate command actions per server.
-- Moderation Reasons: To provide clarity and record-keeping on moderation actions taken.
+3. User Obligations & Conduct
 
-3. Why We Collect This Data
+- Lawful Use: You commit to using the Trigon Evo Bot in accordance with all applicable local, state, national, and international laws and regulations.
+  
+- Prohibited Behavior: Users should refrain from using the bot to harass, threaten, spam, or in any manner that disrupts the user experience for others.
 
-We primarily collect and use this data to ensure the proper and effective functioning of Trigon Evo within your Discord server. Storing specific data helps in understanding user interaction, ensures command accuracy, and offers tailored moderation assistance for each server.
+4. Limitations & Liabilities
 
-4. How We Use Your Data:
+Trigon Evo Bot, its developers, and affiliates are not responsible for any damages, data loss, or issues arising from the use or inability to use the bot functionalities. This limitation applies whether the alleged liability is based on contract, tort, negligence, strict liability, or any other basis.
 
-- To Facilitate Commands: Your data aids in processing specific commands and executing functionalities seamlessly.
+5. Modifications to ToS
 
-- For Moderation: To assist server administrators in maintaining a harmonious environment within their servers.
+We may, in our sole discretion, modify or update this ToS at any time. Users are encouraged to periodically review this ToS for updates. Continued use of Trigon Evo Bot after any such changes constitutes your agreement to the changes.
 
-5. Data Storage & Retention
+6. Termination
 
-All the data we collect is stored securely with state-of-the-art encryption methods. We retain collected data for a maximum of 90 days, post which it is automatically deleted. Message contents used for real-time command processes are not stored beyond immediate use. However, users cannot request the deletion of their individual warning logs, as they are integral to server moderation and maintaining a secure environment. Server administrators, however, have the ability to delete their own server's moderation logs as required.
+We reserve the right to terminate or suspend access to our bot without prior notice or liability, for any reason, including breach of the ToS.
 
-6. User Rights
+7. Contact & Support
 
-Users have the right to inquire about the data we hold about them. While individual warning logs are exempted from deletion requests to maintain server integrity, users can contact us if they have concerns regarding other stored data.
-- Transparency: Users can inquire about their stored data by reaching out to our support.
-- Deletion: Post the stipulated retention period, data is automatically deleted. However, server admins can invoke specific commands to remove data prematurely.
-
-7. Security
-
-We prioritize the security of user data. All data under the umbrella of Trigon Evo is encrypted employing advanced cryptographic techniques, our infrastructure is designed to prevent unauthorized access and data breaches. Regular reviews and updates ensure continued protection of user data.
-
-8. Contact Us
-
-For concerns, queries, or feedback on our privacy practices, reach out to our support team via email at forever4d@outlook.com or through our bot's about section where support team members are mentioned.
-
-9. Changes to This Policy
-
-We may update our Privacy Policy periodically. Users are advised to review this page occasionally for any changes. By continuing to use Trigon Evo after changes become effective, you agree to be bound by the revised Privacy Policy.
-
-Thank you for entrusting Trigon Evo with your Discord server's needs. We deeply value and respect your privacy.
+If you have questions, concerns, or require support related to Trigon Evo Bot, reach out to us at "forever4d@outlook.com" or contact our support team as listed in the bot's about section.
